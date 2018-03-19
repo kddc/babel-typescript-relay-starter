@@ -1,4 +1,7 @@
 {
+  "plugins": [
+   "relay"
+  ],
   "presets": [
     ["react-app", {
       "flow": false
